@@ -2,6 +2,4 @@
 - Create Read Update Delete
 
 ## Screen
-
-
-# React-Crud-App
+![](screen.gif)
